@@ -133,7 +133,7 @@ const Home = () => {
                   <a href="mailto:jiteshsolanki8990@gmail.com">
                     <IconWrap><FaEnvelope /></IconWrap>
                   </a>
-                  <a href="https://wa.me/917982406468" target="_blank" rel="noreferrer">
+                  <a href="https://wa.me/" target="_blank" rel="noreferrer">
                     <IconWrap><FaWhatsapp /></IconWrap>
                   </a>
                   <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
