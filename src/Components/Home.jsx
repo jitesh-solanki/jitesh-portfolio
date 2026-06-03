@@ -10,6 +10,7 @@ import {
   FaGithub,
 } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
+import Typewriter from "./Typewriter";
 
 /* ICON WRAPPER */
 const IconWrap = ({ children }) => (
@@ -35,9 +36,8 @@ const Home = () => {
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold my-2 sm:my-3 text-purple-800 dark:text-purple-400">
               JITESH SOLANKI
             </h1>
-            <p className="text-lg sm:text-xl md:text-2xl font-bold text-gray-800 dark:text-gray-200">
-              Computer Engineer | FrontEnd Developer
-            </p>
+            
+            <Typewriter />
             
             <div className="mt-3 sm:mt-4">
               <p className="text-base sm:text-lg md:text-xl text-gray-700 dark:text-gray-300">
