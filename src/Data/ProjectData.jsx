@@ -1,5 +1,15 @@
 const ProjectData = [
   {
+    title: "JeetTube - Video Player",
+    icon: "🎬",
+    image: "/jeettube.png",
+    description:
+      "YouTube alternative video player powered by Invidious API. Watch videos without YouTube — no ads, no tracking. Features genre/region settings, adult content filter, download manager with MEGA/pCloud cloud storage, and embedded NetMirror for free movies from Netflix, Prime, Disney+.",
+    tech: ["Next.js 16", "TypeScript", "Tailwind CSS", "Invidious API", "IndexedDB"],
+    github: "https://github.com/jiteshoffice1234-star/jeettube",
+    live: "https://jeettube.vercel.app",
+  },
+  {
     title: "The Number - E-commerce App",
     icon: "🛍️",
     image: "../public/project 11.png",
